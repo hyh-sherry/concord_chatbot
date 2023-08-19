@@ -1,1 +1,3 @@
-# concord_chatbot
+# Chatbot - Concord Travel Agency
+
+Team: Hongyi Zhan, Ge Gao, Yanhuan Huang
