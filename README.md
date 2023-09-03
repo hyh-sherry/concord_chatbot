@@ -44,18 +44,22 @@ After we implement scenarios to fulfill the three main purposes of travel, we al
 <img src="images/pandas.png" width="200">
 Restructured raw datasets
 
+
 - **Matplotlib & Wordcloud**
 <img src="images/matplotlib.svg" width="200">
 <img src="images/wordcloud.png" width="200">
 Visualized analysis results and plotted findings using line chart, pie chart and word cloud
 
+
 - **Scikit-learn**
 <img src=images/sklearn.svg.png width="200">
 Performed K-means clustering in the process of traveller companion pairing
 
+
 - **Statsmodel**
 <img src=images/statsmodels.svg width="200">
 Performed ARIMA model fitting in the process of costs estimation
+
 
 - **IPython.display**
 Created rich and interactive contents and displayed External HTML Files
