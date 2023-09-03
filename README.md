@@ -66,4 +66,5 @@ Performed K-means clustering in the process of traveller companion pairing
 Performed ARIMA model fitting in the process of costs estimation
 
 - **IPython.display**
+
 Created rich and interactive contents and displayed External HTML Files
