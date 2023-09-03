@@ -27,13 +27,13 @@ Additionally, the dataset incorporates supplementary information to facilitate m
 
 ## Scenario Description
 #### Scenario 1: Recommendation on destination
-In this scenario, we compare similarity between customer preference and city characteristics through <strong>Euclidean distance metric</strong>. We then recommend destination city with the highest similarity to our customers. By doing so, we allow customers to search for any places that they may be interested in, and so to fulfill <strong>the purpose of exploration and discovery</strong>.
+In this scenario, we compare similarity between customer preference and city characteristics through **Euclidean distance metric**. We then recommend destination city with the highest similarity to our customers. By doing so, we allow customers to search for any places that they may be interested in, and so to fulfill **the purpose of exploration and discovery**.
 #### Scenario 2:  Travel tips
-In this scenario, we provide travel tips to customers based on their selections. We offer users to search for general, transportation, culture, language, weather, photography spots, shopping, tipping, and internet tips. This allows chatbot to develop following <strong>the purpose of culture enrichment</strong>.
+In this scenario, we provide travel tips to customers based on their selections. We offer users to search for general, transportation, culture, language, weather, photography spots, shopping, tipping, and internet tips. This allows chatbot to develop following **the purpose of culture enrichment**.
 #### Scenario 3: Find friends for group travel
-This scenario help customers to connect with other travelers who have similar travel habits.It utilizes advanced algorithms, specifically **K-means clustering**, to intelligently group participants based on their personal preferences across various aspects of travel. This enables the creation of well-matched travel companionships and minimize conflicts during trip, and so fulfill </strong>the purpose of building relationships and connections</strong>.
+This scenario help customers to connect with other travelers who have similar travel habits.It utilizes advanced algorithms, specifically **K-means clustering**, to intelligently group participants based on their personal preferences across various aspects of travel. This enables the creation of well-matched travel companionships and minimize conflicts during trip, and so fulfill **the purpose of building relationships and connections**.
 #### Scenario 4: Estimated travel costs
-After we implement scenarios to fulfill the three main purposes of travel, we also give estimated travel cost for our customers to help them plan their budgets. It combines sophisticated time series analysis using <strong>ARIMA models</strong> for airfare prediction and the visualization power of pie charts to create a robust platform.
+After we implement scenarios to fulfill the three main purposes of travel, we also give estimated travel cost for our customers to help them plan their budgets. It combines sophisticated time series analysis using **ARIMA models** for airfare prediction and the visualization power of pie charts to create a robust platform.
 
 ## Design Structure
 <img src="images/design_structure.png">
