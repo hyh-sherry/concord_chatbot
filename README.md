@@ -31,9 +31,9 @@ In this scenario, we compare similarity between customer preference and city cha
 #### Scenario 2:  Travel tips
 In this scenario, we provide travel tips to customers based on their selections. We offer users to search for general, transportation, culture, language, weather, photography spots, shopping, tipping, and internet tips. This allows chatbot to develop following <strong>the purpose of culture enrichment</strong>.
 #### Scenario 3: Find friends for group travel
-This scenario help customers to connect with other travelers who have similar travel habits.It utilizes advanced algorithms, specifically <strong>K-means clustering</strong>, to intelligently group participants based on their personal preferences across various aspects of travel. This enables the creation of well-matched travel companionships and minimize conflicts during trip, and so fulfill </strong>the purpose of building relationships and connections</strong>.
+This scenario help customers to connect with other travelers who have similar travel habits.It utilizes advanced algorithms, specifically **K-means clustering**, to intelligently group participants based on their personal preferences across various aspects of travel. This enables the creation of well-matched travel companionships and minimize conflicts during trip, and so fulfill </strong>the purpose of building relationships and connections</strong>.
 #### Scenario 4: Estimated travel costs
 After we implement scenarios to fulfill the three main purposes of travel, we also give estimated travel cost for our customers to help them plan their budgets. It combines sophisticated time series analysis using <strong>ARIMA models</strong> for airfare prediction and the visualization power of pie charts to create a robust platform.
 
 ## Design Structure
-<img src="images/design_structure.png>
+<img src="images/design_structure.png">
