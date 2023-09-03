@@ -15,6 +15,7 @@ Customer data was built using a python package called Faker and has the followin
 - Purpose
 - Language
 - Travel with or without Families
+
 Additionally, the dataset incorporates supplementary information to facilitate matching with like-minded travelers:
 - Gender
 - Age
